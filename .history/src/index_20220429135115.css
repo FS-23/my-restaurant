@@ -1,13 +1,6 @@
 .plat-container:hover {
-     top: -10px;
-
+     top: -10px
 }
-
-.plat-container {
-  top: 0;
-  transition: top 0.5s;
-}
-
 
 .app-gradient-container {
    background-image: linear-gradient(160deg , red , blue);

@@ -6,12 +6,10 @@ function App() {
            <div className='position-absolute d-none top-0 w-100 h-100 bg-dark app-gradient-container'>
 
            </div>
-           
-       </div>
-
-       <div className="mt-5 p-3 rounded container ">
+           <div className="bg-dark" style={{width:'500px'}}>
               <Menu />
-        </div>
+           </div>
+       </div>
     </div>
   );
 }

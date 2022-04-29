@@ -1,0 +1,9 @@
+.plan-container {
+    width: auto ;
+    background-color: grey;
+}
+
+.app-gradient-container {
+   background-image: linear-gradient(160deg , red , blue);
+   opacity: 0.5;
+}

@@ -1,11 +1,9 @@
 .plat-container:hover {
-     top: -10px;
-
+     top: -10px
 }
 
 .plat-container {
-  top: 0;
-  transition: top 0.5s;
+  transition: top 2s;
 }
 
 

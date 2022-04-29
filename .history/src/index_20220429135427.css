@@ -1,6 +1,6 @@
 .plat-container:hover {
      top: -10px;
-
+     transform: rotatez(45deg);
 }
 
 .plat-container {

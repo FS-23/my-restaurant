@@ -1,0 +1,8 @@
+.plan-container {
+    width: auto ;
+    background-color: grey;
+}
+
+.app-gradient-container {
+   background-image: linear-gradient(red , yellow , blue);
+}

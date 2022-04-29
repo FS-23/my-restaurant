@@ -3,15 +3,13 @@ function App() {
   return (
     <div className="">
        <div className='vw-100 vh-100 position-fixed text-white'> 
-           <div className='position-absolute d-none top-0 w-100 h-100 bg-dark app-gradient-container'>
+           <div className='position-absolute top-0 w-100 h-100 bg-dark app-gradient-container'>
 
            </div>
-           
-       </div>
-
-       <div className="mt-5 p-3 rounded container ">
+           <div>
               <Menu />
-        </div>
+           </div>
+       </div>
     </div>
   );
 }
